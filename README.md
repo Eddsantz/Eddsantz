@@ -15,4 +15,4 @@ var Edd = {
 ```
 
 <img align="center" height="20" width="1010" src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif">
-<!--![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/Eddsantz/Eddsantz/blob/output/github-contribution-grid-snake.svg)
