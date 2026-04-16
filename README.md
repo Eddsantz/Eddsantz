@@ -8,9 +8,8 @@ var Edd = {
   programs: [VScode,GameMaker],
   languages: {
                         native: "Portuguese",
-                        learning: "English",
                       },
-  just a beginner programmer.
+  XD.
 }
 ```
 
