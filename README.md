@@ -13,8 +13,16 @@ var Edd = {
 }
 ```
 
-# 🔗 Conexões
-
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png =40x40)](https://www.linkedin.com/in/eduardolugerte/)
-[![Portfólio](https://cdn-icons-png.flaticon.com/512/3594/3594071.png =40x40)](https://bebop-os.vercel.app)
-[![Alura](https://cdn-icons-png.flaticon.com/512/11516/11516709.png =40x40)](https://cursos.alura.com.br/user/edulugerte)
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardolugerte/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://bebop-os.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3594/3594071.png" width="40" height="40" alt="Portfólio"/>
+  </a>
+  
+  <a href="https://cursos.alura.com.br/user/edulugerte" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516709.png" width="40" height="40" alt="Alura"/>
+  </a>
+</p>
