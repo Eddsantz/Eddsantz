@@ -13,6 +13,8 @@ var Edd = {
 }
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/eduardolugerte/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=social&logo=three.js)](https://bebop-os.vercel.app)
-[![Alura](https://img.shields.io/badge/Alura-051e3c?style=social&logo=open-university)](https://cursos.alura.com.br/user/edulugerte)
+# 🔗 Conexões
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png =40x40)](https://www.linkedin.com/in/eduardolugerte/)
+[![Portfólio](https://cdn-icons-png.flaticon.com/512/3594/3594071.png =40x40)](https://bebop-os.vercel.app)
+[![Alura](https://cdn-icons-png.flaticon.com/512/11516/11516709.png =40x40)](https://cursos.alura.com.br/user/edulugerte)
