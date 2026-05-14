@@ -19,10 +19,10 @@ var Edd = {
   </a>
   
   <a href="https://bebop-os.vercel.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3594/3594071.png" width="40" height="40" alt="Portfólio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3336/3336008.png" width="40" height="40" alt="Bebop"/>
   </a>
   
   <a href="https://cursos.alura.com.br/user/edulugerte" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516709.png" width="40" height="40" alt="Alura"/>
+    <img src="https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4" width="40" height="40" alt="Alura"/>
   </a>
 </p>
