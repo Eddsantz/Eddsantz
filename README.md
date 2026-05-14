@@ -15,6 +15,8 @@ var Edd = {
 
 <img align="center" height="20" width="1010" src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif">
 
-<a href="[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/eduardolugerte/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="[LINK_DO_SEU_PORTFOLIO](https://bebop-os.vercel.app)" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
-<a href="[LINK_DA_ALURA](https://cursos.alura.com.br/user/edulugerte)" target="_blank"><img src="https://img.shields.io/badge/-Alura-%23051e3c?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eduardolugerte/)
+
+[<img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=three.js&logoColor=white">](LINK_DO_SEU_PORTFOLIO)
+
+[<img src="https://img.shields.io/badge/-Alura-%23051e3c?style=for-the-badge&logo=curse&logoColor=white">](LINK_DA_ALURA)
