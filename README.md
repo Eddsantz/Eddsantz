@@ -13,6 +13,6 @@ var Edd = {
 }
 ```
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardolugerte/)
-[![Portfólio](https://skillicons.dev/icons?i=threejs)](https://bebop-os.vercel.app)
-[![Alura](https://skillicons.dev/icons?i=gamemaker)](https://cursos.alura.com.br/user/edulugerte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/eduardolugerte/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=social&logo=three.js)](https://bebop-os.vercel.app)
+[![Alura](https://img.shields.io/badge/Alura-051e3c?style=social&logo=open-university)](https://cursos.alura.com.br/user/edulugerte)
