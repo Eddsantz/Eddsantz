@@ -11,7 +11,6 @@ const profile = {
     ],
 
     interests: [
-        "creative coding",
         "low-code workflows",
         "game design",
         "experimental ideas"
