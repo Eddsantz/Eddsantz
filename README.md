@@ -4,7 +4,6 @@
 ```javascript
 const profile = {
     creating: [
-        "creative projects",
         "game prototypes",
         "interactive stuff",
         "automation tools"
