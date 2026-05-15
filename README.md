@@ -7,15 +7,15 @@ const profile = {
         "game prototypes",
         "interactive stuff",
         "automation tools"
-    ],
-            interests: [
-                "low-code workflows",
-                "game design",
-                "experimental ideas"
             ],
-                tools: [
-                    "Godot",
-                    "Gamemaker"
+     interests: [
+        "low-code workflows",
+        "game design",
+        "experimental ideas"
+            ],
+     tools: [
+        "Godot",
+        "Gamemaker"
                 ]
         }
 ```
