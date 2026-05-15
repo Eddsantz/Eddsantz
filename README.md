@@ -8,16 +8,16 @@ const profile = {
         "interactive stuff",
         "automation tools"
     ],
-    interests: [
-        "low-code workflows",
-        "game design",
-        "experimental ideas"
-    ],
-    tools: [
-        "Godot",
-        "Gamemaker"
-    ]
-}
+            interests: [
+                "low-code workflows",
+                "game design",
+                "experimental ideas"
+            ],
+                tools: [
+                    "Godot",
+                    "Gamemaker"
+                ]
+        }
 ```
 <img align="center" height="20" width="1010" src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif">
 
