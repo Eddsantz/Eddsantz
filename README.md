@@ -11,7 +11,7 @@ const profile = {
      interests: [
         "low-code workflows",
         "game design",
-        "experimental ideas"
+        "AI"
             ],
      tools: [
         "Godot",
