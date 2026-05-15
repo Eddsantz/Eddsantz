@@ -12,6 +12,7 @@ var Edd = {
   XD.
 }
 ```
+<img align="right" height="230" width="200" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/200.webp?cid=ecf05e47p2carhr4kb15ktsowu4kdoyd68kqla8iyyqm979e&ep=v1_gifs_related&rid=200.webp&ct=g">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardolugerte/" target="_blank">
