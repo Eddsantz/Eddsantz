@@ -8,13 +8,11 @@ const profile = {
         "interactive stuff",
         "automation tools"
     ],
-
     interests: [
         "low-code workflows",
         "game design",
         "experimental ideas"
     ],
-
     tools: [
         "Godot",
         "Gamemaker"
